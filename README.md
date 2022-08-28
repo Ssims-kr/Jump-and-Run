@@ -1,4 +1,6 @@
 # Jump-and-Run
+![Honeycam 2022-08-28 15-58-18](https://user-images.githubusercontent.com/36888398/187061716-9c61c0d2-1860-4c4c-8a43-e57f479d7e37.gif)
+
 Lua Script와 Love2D 프레임워크를 이용해 만든 2D 게임입니다.
 
 # Resource
